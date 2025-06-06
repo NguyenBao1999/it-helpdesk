@@ -31,13 +31,13 @@ net use Z: \192.168.1.100\Projects /persistent:yes
 ```
 ---
 
-✅ Bước 3: Map với tài khoản và mật khẩu
+## 🔑 Map với tài khoản và mật khẩu
 ```
 net use Z: \192.168.1.100\Projects yourPassword /user:yourUsername /persistent:yes
 ```
 ---
 
-## ❌ Bước 4: Xóa ổ đĩa đã map
+## ❌ Xóa ổ đĩa đã map
 ```
 net use Z: /delete /y
 ```
