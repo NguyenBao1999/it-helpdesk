@@ -7,13 +7,11 @@
 
 ## Cách xử lý:
 1. Mở Command Prompt, chạy các lệnh:
-<pre>
 ```
 ipconfig /release
 ipconfig /renew
 ipconfig /flushdns
 ```
-</pre>
 2. Khởi động lại router.
 3. Cập nhật hoặc cài lại driver card mạng.
 4. Kiểm tra lại cấu hình IP (nên để tự động lấy IP).
