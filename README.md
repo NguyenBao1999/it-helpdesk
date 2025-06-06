@@ -1,6 +1,6 @@
-# it-helpdesk-portfolio
+# IT-Helpdesk
 Tổng hợp script, tài liệu kỹ thuật và case xử lý lỗi của IT Helpdesk.
-# 💼 IT Helpdesk Portfolio
+# 💼 IT Support
 
 Xin chào! Mình là **[Nguyễn Bảo]**, hiện đang theo đuổi lĩnh vực **IT Helpdesk / Technical Support**. Đây là nơi mình lưu trữ và chia sẻ:
 
