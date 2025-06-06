@@ -29,3 +29,5 @@ Xin chào! Mình là **[Nguyễn Bảo]**, hiện đang theo đuổi lĩnh vực
 | `knowledge-base/` | Tài liệu hướng dẫn xử lý sự cố thường gặp |
 | `troubleshooting-cases/` | Các tình huống thực tế mình từng xử lý |
 | `tools-used.md` | Tổng hợp các công cụ/phần mềm mình đã sử dụng |
+
+---
